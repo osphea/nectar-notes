@@ -1,2 +1,2 @@
 # nectar-notes
-note keeping for dahlia
+Merged with petal text editor!
